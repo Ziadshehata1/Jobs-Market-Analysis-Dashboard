@@ -86,18 +86,7 @@ This dashboard is designed to provide deep insights into the job market through 
 4. **Visualization**: Interactive chart generation with Plotly
 5. **User Interaction**: Real-time filtering and dynamic updates
 
-## 📁 Project Structure
 
-```
-jobs-dashboard/
-├── interactive_jobs_dashboard.py    # Main Streamlit application
-├── jobs_large_1000.csv             # Sample dataset (1000 job postings)
-├── jobs_visualization_analysis.py  # Data analysis and recommendations
-├── create_jobs_visualizations.py   # Static chart generation
-├── requirements.txt                 # Python dependencies
-├── README.md                       # Project documentation
-└── static/                         # Static assets and images
-```
 
 ## 🚀 Quick Start Guide
 
@@ -361,5 +350,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **Python for Data Analysis**: Master data manipulation
 
 ---
+
 
 **Happy Analyzing! 🎉**
